@@ -58,11 +58,11 @@ th {
 
 #signatureModal {
   background-color: #ecdddd;
-  margin: 13% auto;
+  margin: 5% auto;
   padding: 20px;
   border-radius: 8px;
-  width: 35%;
-  max-width: 400px;
+  width: 90%;
+  max-width: 1000px;
   animation: popUp 0.3s ease;
 }
 
@@ -99,7 +99,7 @@ th {
   background-color: #4CAF50;
   color: white;
   padding: 10px 17px;
-  margin-left: 50%;
+  margin-left: 70%;
   border: none;
   border-radius: 5px;
   cursor: pointer;
